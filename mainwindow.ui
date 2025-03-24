@@ -6,79 +6,37 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>897</width>
-    <height>582</height>
+    <width>958</width>
+    <height>600</height>
    </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QWidget" name="formLayoutWidget">
+   <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>110</y>
-      <width>551</width>
-      <height>341</height>
+      <x>260</x>
+      <y>100</y>
+      <width>331</width>
+      <height>151</height>
      </rect>
     </property>
-    <layout class="QFormLayout" name="formLayout">
-     <item row="0" column="0">
-      <widget class="QLabel" name="label_2">
-       <property name="text">
-        <string>Name</string>
-       </property>
-      </widget>
-     </item>
-     <item row="1" column="0">
-      <widget class="QLabel" name="label_3">
-       <property name="text">
-        <string>Surname</string>
-       </property>
-      </widget>
-     </item>
-     <item row="0" column="1">
-      <widget class="QLineEdit" name="lineEdit"/>
-     </item>
-     <item row="1" column="1">
-      <widget class="QLineEdit" name="lineEdit_2"/>
-     </item>
-     <item row="2" column="1">
-      <layout class="QHBoxLayout" name="horizontalLayout">
-       <item>
-        <widget class="QPushButton" name="pushButton">
-         <property name="sizeIncrement">
-          <size>
-           <width>2</width>
-           <height>2</height>
-          </size>
-         </property>
-         <property name="autoFillBackground">
-          <bool>false</bool>
-         </property>
-         <property name="text">
-          <string>Popochka</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QPushButton" name="pushButton_2">
-         <property name="text">
-          <string>Open new window</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label">
-         <property name="text">
-          <string>i hate niggers</string>
-         </property>
-        </widget>
-       </item>
-      </layout>
-     </item>
-    </layout>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -86,7 +44,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>897</width>
+     <width>958</width>
      <height>25</height>
     </rect>
    </property>

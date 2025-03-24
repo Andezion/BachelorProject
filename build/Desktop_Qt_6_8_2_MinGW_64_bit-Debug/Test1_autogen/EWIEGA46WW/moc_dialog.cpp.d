@@ -1,4 +1,4 @@
-C:/Qt/Projects/Test1/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Test1_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Qt/Projects/Test1/mainwindow.h \
+C:/Qt/Projects/Test1/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Test1_autogen/EWIEGA46WW/moc_dialog.cpp: C:/Qt/Projects/Test1/dialog.h \
   C:/Qt/Projects/Test1/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Test1_autogen/moc_predefs.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/q20iterator.h \
@@ -146,16 +146,12 @@ C:/Qt/Projects/Test1/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Test1_autogen/EWI
   C:/Qt/6.8.2/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.8.2/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.8.2/mingw_64/include/QtWidgets/QDialog \
-  C:/Qt/6.8.2/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.8.2/mingw_64/include/QtWidgets/qdialog.h \
-  C:/Qt/6.8.2/mingw_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.8.2/mingw_64/include/QtWidgets/qsizepolicy.h \
-  C:/Qt/6.8.2/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.8.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.8.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.8.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
   C:/Qt/6.8.2/mingw_64/include/QtWidgets/qwidget.h \
-  C:/Qt/Projects/Test1/dialog.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
